@@ -1,0 +1,11 @@
+subir el servicio
+
+Pararse en la pagina
+python manage.py runserver 80
+
+
+Crear la base de datos.
+Despues de editar el archivo settings.py 
+ejecuto
+python manage.py syncdb
+eso crea la base de datos y la contraseña
